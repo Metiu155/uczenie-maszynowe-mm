@@ -1,0 +1,6 @@
+def statek():
+    print('statek')
+
+
+
+
